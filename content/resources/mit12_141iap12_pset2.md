@@ -2,6 +2,7 @@
 content_type: resource
 description: New file Upload
 file: /courses/12-141-electron-microprobe-analysis-january-iap-2012/0f5c8ceaca697c4c332f8b589df6f7fd_MIT12_141IAP12_pset2.pdf
+file_size: 62859
 file_type: application/pdf
 learning_resource_types:
 - Assignments
